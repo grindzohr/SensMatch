@@ -21,6 +21,13 @@ python3 sensmatch.py
 
 ### PyInstaller package
 A bundled package is available under [releases](https://github.com/grindzohr/SensMatch/releases). It's rather large as it contains a full Python enviroment and dependencies. The upside is that you don't need to have any knowledge of Python or even have it installed to use the tool.
+```shell
+# Make it executable
+sudo chmod +x sensematch-0.1.0-beta
+
+#Run
+./sensematch-0.1.0-beta
+```
 
 ## Usage
 Run the tool, then:
